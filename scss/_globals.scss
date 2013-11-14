@@ -1,0 +1,46 @@
+/* TEXT COLOURS - These should be same as Packery values in main.js
+---------------------------------------------------------------------- */
+$galleryRow_height:128px;
+$galleryRow_width:80px;
+$galleryRowGutter_height:10px;
+$galleryRowGutter_width:10px;
+
+/* TEXT COLOURS
+---------------------------------------------------------------------- */
+$txt_color:#000;
+$txtAnchor_color:#000;
+$txtAnchor_is-hover_color:#000;
+$txtAnchorUnderline_color:#999999;
+$txtInverse_color:#fff;
+$txtSecondary_color:#ccc;
+
+/* BACKGROUND COLOURS
+---------------------------------------------------------------------- */
+$bgDefault_color:#393837;
+$bgHeader_color:#ffffff;
+$bgFooter_color:#ffffff;
+$bgQuote_color:#000000;
+$bgAbout:#4100e2;
+$bgIntro:#ffffff;
+$bgTextBlock:#ffffff;
+$bg404:#4100e2;
+
+/* Z-INDEX
+---------------------------------------------------------------------- */
+$imageShadow_z-index:-40;
+$frame_z-index:20;
+$gallery_z-index:25;
+$navArrows_z-index:30;
+$topArticle_z-index:40;
+$lightboxBg_z-index:50;
+$lightboxWrap_z-index:51;
+$lightboxLoader_z-index:52;
+$postContainer_z-index:55;
+$viewSource_z-index:58;
+$about_z-index:60;
+$disclaimer_z-index:62;
+$textBlock_z-index:63;
+$aboutQuote_z-index:65;
+$aboutIntro_z-index:67;
+$header_z-index:95;
+$footer_z-index:100;
